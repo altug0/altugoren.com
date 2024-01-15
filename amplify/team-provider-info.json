@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-altugorencom-dev-145556-authRole",
+      "UnauthRoleArn": "arn:aws:iam::448300923622:role/amplify-altugorencom-dev-145556-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::448300923622:role/amplify-altugorencom-dev-145556-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-altugorencom-dev-145556-deployment",
+      "UnauthRoleName": "amplify-altugorencom-dev-145556-unauthRole",
+      "StackName": "amplify-altugorencom-dev-145556",
+      "StackId": "arn:aws:cloudformation:us-east-1:448300923622:stack/amplify-altugorencom-dev-145556/0c2bab90-b39d-11ee-ad42-0ab2d1369be1",
+      "AmplifyAppId": "dlbhmnzig5723"
+    }
+  }
+}
